@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🎯 Project Overview
 
 A robust, intelligent PDF outline extraction system that transforms unstructured PDF documents into clean, hierarchical JSON outlines. Built for the Adobe India Hackathon, this solution extracts titles and headings (H1, H2, H3) with precise page numbers, enabling smarter document experiences for semantic search, recommendation systems, and insight generation.
